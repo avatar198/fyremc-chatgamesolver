@@ -1,5 +1,5 @@
 # fyremc-chatgamesolver
-FyreMC és chates játékkal rendelkező szervereken használható!
+FyreMC és chates játékkal rendelkező szervereken használható, chatjátékmegoldó!
 Ez egy 3 indításos próbaverzió!
 (amennyiben nem FMC-n használod, a file_path=os.path.expanduser('~\\AppData\\Roaming\\.fyremc.hu\\debug.log') sorban írd át a path-et a debug.loghoz!
 
